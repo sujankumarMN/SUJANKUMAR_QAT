@@ -1,2 +1,2 @@
 # SUJANKUMAR_QAT
-This repository cintains the java and sql test solutions.
+This repository contains the java and sql test solutions.
